@@ -1,6 +1,4 @@
-# Sistema de Pagamentos API — Versão Simplificada
-
-Esta é uma versão mais simples do trabalho, feita para ficar mais fácil de entender, explicar e apresentar.
+# Sistema de Pagamentos API 
 
 A API foi feita com **FastAPI**, **SQLAlchemy** e **SQLite**.
 
